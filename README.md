@@ -1,1 +1,1 @@
-# anmoaly-detection-exercises
+# anomaly-detection-exercises
